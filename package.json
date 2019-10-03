@@ -1,0 +1,31 @@
+{
+  "name": "le-store-mongoz",
+  "version": "3.0.0",
+  "description": "Greenlock store for mongodb",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "greenlock-store-test": "^3.0.2",
+    "mongodb": "^3.3.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daguej/le-store-mongoz.git"
+  },
+  "keywords": [
+    "le-store",
+    "greenlock",
+    "letsencrypt",
+    "mongodb",
+    "mongo"
+  ],
+  "bugs": {
+    "url": "https://github.com/daguej/le-store-mongoz/issues"
+  },
+  "homepage": "https://github.com/daguej/le-store-mongoz",
+  "author": "daguej",
+  "license": "MIT"
+}
